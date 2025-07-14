@@ -1,0 +1,26 @@
+{
+  "name": "zennora-signalk-register-commands",
+  "version": "0.5.0-alpha.1",
+  "description": "Plugin to register new command paths dynamically",
+  "main": "index.js",
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk",
+    "commands",
+    "marine"
+  ],
+  "author": "Maurice Tamman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricetamman/zennora-signalk-register-commands.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mauricetamman/zennora-signalk-register-commands/issues"
+  },
+  "homepage": "https://github.com/mauricetamman/zennora-signalk-register-commands#readme",
+  "signalk": {
+    "appSupport": "none",
+    "compatibility": ">=2.13.0"
+  }
+}
