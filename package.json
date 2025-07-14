@@ -13,12 +13,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauricetamman/zennora-signalk-register-commands.git"
+    "url": "git+https://github.com/motamman/zennora-signalk-register-commands.git"
   },
   "bugs": {
-    "url": "https://github.com/mauricetamman/zennora-signalk-register-commands/issues"
+    "url": "https://github.com/motamman/zennora-signalk-register-commands/issues"
   },
-  "homepage": "https://github.com/mauricetamman/zennora-signalk-register-commands#readme",
+  "homepage": "https://github.com/motamman/zennora-signalk-register-commands#readme",
   "signalk": {
     "appSupport": "none",
     "compatibility": ">=2.13.0"
