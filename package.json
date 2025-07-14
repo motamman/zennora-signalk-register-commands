@@ -1,7 +1,7 @@
 {
   "name": "zennora-signalk-register-commands",
   "version": "0.5.0-alpha.1",
-  "description": "Plugin to register new command paths dynamically",
+  "description": "Plugin to register new PUT-enabled boolean command paths",
   "main": "index.js",
   "keywords": [
     "signalk-node-server-plugin",
