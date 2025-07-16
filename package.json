@@ -5,6 +5,7 @@
   "main": "index.js",
   "keywords": [
     "signalk-node-server-plugin",
+    "signalk-category-utility",
     "signalk",
     "commands",
     "marine"
